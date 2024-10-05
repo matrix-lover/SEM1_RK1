@@ -1,6 +1,7 @@
-//  Created by Shamil Nurmagomedov on 05.10.2024.
+//
 //var_5
 //Вывести на печать пять первых слагаемых суммы выражения (1/2^n) и сумму этих слагаемых
+//
 
 #include <iostream>
 #include <math.h>
